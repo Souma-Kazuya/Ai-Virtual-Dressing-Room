@@ -1,0 +1,39 @@
+{
+  "male": {
+    "casual": [
+      {"id": "casual_01", "name": "Striped Casual", "path": "assets/clothes/male/casual/12-removebg-preview.png", "tags": ["casual", "stripes", "blue"]},
+      {"id": "casual_02", "name": "Plain T-shirt", "path": "assets/clothes/male/casual/3.png", "tags": ["casual", "minimal", "cotton"]}
+    ],
+    "formal": [
+      {"id": "formal_01", "name": "Classic White", "path": "assets/clothes/male/formal/10-removebg-preview.png", "tags": ["formal", "white", "business"]},
+      {"id": "formal_02", "name": "Sky Blue Formal", "path": "assets/clothes/male/formal/11-removebg-preview.png", "tags": ["formal", "blue", "smart"]},
+      {"id": "formal_03", "name": "Premium Formal", "path": "assets/clothes/male/formal/2.png", "tags": ["formal", "dark", "luxury"]}
+    ],
+    "summer": [
+      {"id": "summer_01", "name": "Light Linen", "path": "assets/clothes/male/summer/1.png", "tags": ["summer", "light", "breathable"]},
+      {"id": "summer_02", "name": "Holiday Shirt", "path": "assets/clothes/male/summer/5-removebg-preview.png", "tags": ["summer", "vacation", "print"]}
+    ],
+    "winter": [
+      {"id": "winter_01", "name": "Heavy Jacket", "path": "assets/clothes/male/winter/1a-removebg-preview.png", "tags": ["winter", "warm", "outdoor"]},
+      {"id": "winter_02", "name": "Woolen Pullover", "path": "assets/clothes/male/winter/4-removebg-preview.png", "tags": ["winter", "wool", "cosy"]}
+    ]
+  },
+  "female": {
+    "casual": [
+      {"id": "f_casual_01", "name": "Linen Summer Dress", "path": "assets/clothes/female/casual/1-removebg-preview.png", "tags": ["casual", "linen", "white", "summer"]},
+      {"id": "f_casual_02", "name": "Denim Jacket", "path": "assets/clothes/female/casual/2-removebg-preview.png", "tags": ["casual", "denim", "blue", "outerwear"]}
+    ],
+    "formal": [
+      {"id": "f_formal_01", "name": "Business Blazer", "path": "assets/clothes/female/formal/1-removebg-preview.png", "tags": ["formal", "black", "suit", "professional"]},
+      {"id": "f_formal_02", "name": "Silk Blouse", "path": "assets/clothes/female/formal/2-removebg-preview.png", "tags": ["formal", "silk", "white", "elegant"]}
+    ],
+    "summer": [
+      {"id": "f_summer_01", "name": "Floral Sundress", "path": "assets/clothes/female/summer/1-removebg-preview.png", "tags": ["summer", "floral", "yellow", "breezy"]},
+      {"id": "f_summer_02", "name": "Crop Top", "path": "assets/clothes/female/summer/2-removebg-preview.png", "tags": ["summer", "casual", "white", "short"]}
+    ],
+    "winter": [
+      {"id": "f_winter_01", "name": "Wool Overcoat", "path": "assets/clothes/female/winter/1-removebg-preview.png", "tags": ["winter", "wool", "beige", "warm"]},
+      {"id": "f_winter_02", "name": "Knitted Sweater", "path": "assets/clothes/female/winter/2-removebg-preview.png", "tags": ["winter", "knit", "blue", "cosy"]}
+    ]
+  }
+}
